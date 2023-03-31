@@ -1,6 +1,6 @@
 Name:		texlive-gitfile-info
 Version:	51928
-Release:	1
+Release:	2
 Summary:	Get git metadata for a specific file
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gitfile-info
